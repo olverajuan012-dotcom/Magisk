@@ -19,3 +19,4 @@
 [submodule "crt0"]
 	path = native/src/external/crt0
 	url = https://github.com/topjohnwu/crt0.git
+[![](https://jitpack.io/v/topjohnwu/libsu.svg)](https://jitpack.io/#topjohnwu/libsu)
